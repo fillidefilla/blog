@@ -4,7 +4,7 @@
   "author": "FilliDeFilla",
   "title": "Welcome to the FilliDeFilla Blog",
   "description": "Welcome to the FilliDeFilla Blog",
-  "image": "images/noise.jpg",
+  "image": "https://content.fillidefilla.com/images/noise.jpg",
   "published": "2020-03-23",
 }
 ---
